@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Center visual badge -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,54m-28,0a28,28 0,1,1,56,0a28,28 0,1,1,-56,0" />
+
+    <!-- Left quotation mark -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M42,45 h7 v6 c0,4 -2,7 -6,9 l-2,-1.5 c2.5,-1.5 4,-3 4,-5.5 h-3 z" />
+
+    <!-- Right quotation mark -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M53,45 h7 v6 c0,4 -2,7 -6,9 l-2,-1.5 c2.5,-1.5 4,-3 4,-5.5 h-3 z" />
+
+</vector>

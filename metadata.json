@@ -1,0 +1,6 @@
+{
+  "name": "Random Quote Generator",
+  "description": "A clean, beautiful, and minimal app that displays curated inspiring quotes with easy copy and share features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

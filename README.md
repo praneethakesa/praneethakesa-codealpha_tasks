@@ -1,21 +1,63 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+#  Random Quote Generator
 
-# Run and deploy your AI Studio app
+##  Project Overview
 
-This contains everything you need to run your app locally.
+The **Random Quote Generator** is a Kotlin-based Android application developed as part of the **CodeAlpha Android Development Internship**. The application provides users with inspirational and motivational quotes in a clean and simple interface. A new random quote is displayed every time the app is opened or when the **New Quote** button is pressed, making each interaction refreshing and engaging.
 
-View your app in AI Studio: https://ai.studio/apps/ca889fcc-dd64-4c65-a83d-d206817f1add
+---
 
-## Run Locally
+##  Features
 
-**Prerequisites:**  [Android Studio](https://developer.android.com/studio)
+-  Displays a random quote whenever the application is launched.
+-  Generate a different quote instantly using the **New Quote** button.
+-  Clearly displays both the **quote text** and the **author's name**.
+-  Clean, modern, and minimal user interface for an enjoyable reading experience.
+-  Responsive design optimized for Android devices.
+-  Fast and lightweight application with smooth performance.
+
+---
+
+##  Technologies Used
+
+- Kotlin
+- Android Studio
+- Jetpack Compose
+- Material Design 3
+- Gradle
+
+---
 
 
-1. Open Android Studio
-2. Select **Open** and choose the directory containing this project
-3. Allow Android Studio to fix any incompatibilities as it imports the project.
-4. Create a file named `.env` in the project directory and set `GEMINI_API_KEY` in that file to your Gemini API key (see `.env.example` for an example)
-5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
-6. Run the app on an emulator or physical device
+
+---
+
+##  Learning Outcomes
+
+This project helped me gain practical experience in:
+
+- Android application development using Kotlin.
+- Designing clean and user-friendly interfaces with Jetpack Compose.
+- Implementing random data generation.
+- Managing UI state and user interactions.
+- Creating responsive Android applications following Material Design principles.
+
+---
+
+##  Future Enhancements
+
+-  Save favorite quotes.
+-  Share quotes with friends via social media.
+-  Quote categories (Motivation, Success, Life, Happiness, etc.).
+-  Search quotes by author or keyword.
+
+---
+
+## 👩‍💻 Author
+
+**Kesa Praneetha**
+
+GitHub: https://github.com/praneethakesa
+
+---
+
+**Internship:** CodeAlpha Android Development Internship
